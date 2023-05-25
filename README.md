@@ -1,6 +1,6 @@
 # Terraform "check" exploration
 
-Terraform 1.5 has introduced a "check {}" block that can be used to define assettions based on data source values to verify the state of the infastructure on an ongoing basis.
+Terraform 1.5 has introduced a "check {}" block that can be used to define assertions based on data source values to verify the state of the infastructure on an ongoing basis.
 
 ```
 brew install tfenv colima
